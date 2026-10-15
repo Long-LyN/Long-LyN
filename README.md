@@ -1,10 +1,10 @@
 ## Long Ngo Le Hoang Profile 👋
-I am Long Ngo Le Hoang, a Research Assistant and a Master's student in Mechatronics Engineering at Vietnam National University Ho Chi Minh City, Ho Chi Minh City University of Technology (VNUHCM-HCMUT). My research focuses on Robotics, Dynamics and Control, and mechatronic applications in Logistics. As a member of a VNU-HCM Category-A research project on autonomous mobile robots for natural rubber tapping, I specialized in developing optimization algorithms for tapping-trajectory prediction and designing optimal control strategies for mobile-platform motion control.
+I am Long Ngo Le Hoang, a Research Assistant and a Master's student in Mechatronics Engineering at Vietnam National University Ho Chi Minh City, Ho Chi Minh City University of Technology (VNUHCM-HCMUT), where I graduated 1st in the Mechatronics Department (Gold Medalist) with a Bachelor of Engineering in Mechatronics Engineering (Honors Program) in 2025 (CGPA: 3.8/4.0; 8.8/10.0). My research focuses on Robotics, Dynamics and Control, and mechatronic applications in Logistics. As a member of a VNU-HCM Category-A research project on autonomous mobile robots for natural rubber tapping, I specialized in developing optimization algorithms for tapping-trajectory prediction and designing optimal control strategies for mobile-platform motion control.
 
 ## 🚀 About Me
 
 - 🎓 Currently: a Research Assistant and a Master's student in Mechatronics Engineering at Vietnam National University Ho Chi Minh City, Ho Chi Minh City University of Technology (VNUHCM-HCMUT).
-- 📜 Bachelor of Engineering in Mechatronics Engineering (2025), GPA: 3.8/4.0
+- 📜 Bachelor of Engineering in Mechatronics Engineering (Honors Program) (2025), GPA: 3.8/4.0
 - 🔭 I’m currently working on **trajectory optimization algorithms, dynamic modeling, and optimal/adaptive control for autonomous mobile robots in rubber forests (VNU-HCM Type-A Project)**.
 - 🌱 I’m currently learning more about **ROS/ROS2, advanced nonlinear & optimal control, and mobile robots applied in logistics**.
 - 👯 I’m looking to collaborate on **cutting-edge research and R&D in Robotics, Nonlinear Dynamics & Control, and Intelligent Logistics Systems — particularly Autonomous Mobile Robots (AMRs)**.
