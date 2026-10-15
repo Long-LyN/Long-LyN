@@ -15,9 +15,6 @@ I am Long Ngo Le Hoang, a Research Assistant and a Master's student in Mechatron
 
 * Thanh Nhat Luong, **Long Ngo Le Hoang**, Tan Khoa Tran, Ngoc Cuong Truong, and Duy Anh Nguyen (2026). "Advanced Hybrid Metaheuristic Framework for Spiral Rubber Tapping Trajectory Optimization on Curved Tree Trunks." *Alexandria Engineering Journal* (Q1).
 
-## Connect with me:
+## 📫 Connect with me:
 
-- 📫 How to reach me: [long.ngolehoangmsc@hcmut.edu.vn](mailto:long.ngolehoangmsc@hcmut.edu.vn) | [long.ngolehoang.hcmut@gmail.com](mailto:long.ngolehoang.hcmut@gmail.com) | [LinkedIn](https://www.linkedin.com/in/long-ngolehoang/)
-
-
-
+[long.ngolehoangmsc@hcmut.edu.vn](mailto:long.ngolehoangmsc@hcmut.edu.vn) | [long.ngolehoang.hcmut@gmail.com](mailto:long.ngolehoang.hcmut@gmail.com) | [LinkedIn](https://www.linkedin.com/in/long-ngolehoang/)
