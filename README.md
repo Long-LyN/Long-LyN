@@ -1,5 +1,5 @@
 ## Long Ngo Le Hoang Profile 👋
-I am Long Ngo Le Hoang, a Research Assistant and a Master's student in Mechatronics Engineering at Vietnam National University Ho Chi Minh City, Ho Chi Minh City University of Technology (VNUHCM-HCMUT). My research centers on Robotics, Dynamics and Control, and Mechatronic Applications in Logistics. Notably, as a member of a VNU-HCM Category-A research project on autonomous mobile robots for natural rubber tapping, I specialized in developing optimization algorithms for tapping trajectory prediction and designing optimal control strategies for mobile platform motion control.
+I am Long Ngo Le Hoang, a Research Assistant and a Master's student in Mechatronics Engineering at Vietnam National University Ho Chi Minh City, Ho Chi Minh City University of Technology (VNUHCM-HCMUT). My research focuses on Robotics, Dynamics and Control, and mechatronic applications in Logistics. As a member of a VNU-HCM Category-A research project on autonomous mobile robots for natural rubber tapping, I specialized in developing optimization algorithms for tapping-trajectory prediction and designing optimal control strategies for mobile-platform motion control.
 
 ## 🚀 About Me
 
@@ -11,7 +11,7 @@ I am Long Ngo Le Hoang, a Research Assistant and a Master's student in Mechatron
 - 💬 Ask me about **C/C++, Python, MATLAB, ROS/ROS2, Robot Modeling & Control, Metaheuristic Optimization, and Mechatronic System Design (Mechanical/Electrical/Hardware)**.
 - ⚡ Fun fact: **Graduated 1st in the Mechatronics Department (Gold Medalist 🥇), won a Bronze Medal at the Faculty of Mechanical Engineering Football Cup (FME Cup) ⚽🥉, and love singing & rapping in my free time 🎤!**
 
-## Publication:
+## 📄 Publication:
 
 * Thanh Nhat Luong, **Long Ngo Le Hoang**, Tan Khoa Tran, Ngoc Cuong Truong, and Duy Anh Nguyen (2026). "Advanced Hybrid Metaheuristic Framework for Spiral Rubber Tapping Trajectory Optimization on Curved Tree Trunks." *Alexandria Engineering Journal* (Q1).
 
